@@ -1,1 +1,6 @@
-lion katherine\ntiger\nleopard\nturtle\n
+katherine
+lion
+tiger
+leopard
+turtle
+Ruhama 
